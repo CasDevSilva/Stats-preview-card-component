@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/CasDevSilva/Stats-preview-card-component)
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://splendorous-frangipane-032830.netlify.app/)
 
 ## My process
 
